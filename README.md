@@ -1,12 +1,14 @@
 ### Hi there 👋
-I'm Faris Fadhail
+## I'm Faris Fadhail 
+
+## And here's my stats on my github :
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=farisfadhail&show_icons=true&theme=radical)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=farisfadhail&theme=radical)](https://git.io/streak-stats)
 
 ------------------------------------------------------------
-### Currently i'm learning
+### Currently i'm learning some technologies :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
