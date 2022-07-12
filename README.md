@@ -1,8 +1,6 @@
 ### Hi there 👋
-## I'm Faris Fadhail 
 
-## And here's my stats on my github :
-
+## I'm Faris Fadhail And here's my stats on my github :
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=farisfadhail&show_icons=true&theme=radical)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=farisfadhail&theme=radical)](https://git.io/streak-stats)
