@@ -8,7 +8,7 @@
 <p align:"center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=farisfadhail&show_icons=true&theme=radical"/>
 
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=farisfadhail&theme=radical)](https://git.io/streak-stats"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=farisfadhail&theme=radical"/>
   
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=farisfadhail&layout=compact&langs_count=8&theme=radical"/>
 </p>
