@@ -5,10 +5,10 @@
 #### Don't forget Hello World! to start the day
 
 ## And here's my stats :
+<p align:"center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=farisfadhail&show_icons=true&theme=radical)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=farisfadhail&theme=radical)](https://git.io/streak-stats)
-
+</p>
 ------------------------------------------------------------
 ### Currently i'm learning some technologies :
 
