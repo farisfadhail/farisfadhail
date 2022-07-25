@@ -5,13 +5,11 @@
 #### Don't forget Hello World! to start the day
 
 ## And here's my stats :
-<a href="https://github.com/farisfadhail">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=farisfadhail&show_icons=true&theme=radical"/>
 
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=farisfadhail&theme=radical"/>
   
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=farisfadhail&layout=compact&langs_count=8&theme=radical"/>
-</a>
 
 ------------------------------------------------------------
 ### Currently i'm learning some technologies :
