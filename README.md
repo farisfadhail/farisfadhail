@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Don't forget Hello World! to start the day
+### Don't forget Hello World! to start the day!
 
 ## And here's my stats :
 <p align="center">
