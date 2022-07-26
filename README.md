@@ -1,8 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
-### Don't forget Hello World! to start the day!
+## Don't forget Hello World! to start the day!
 
-## And here's my stats :
+### And here's my stats :
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=farisfadhail&show_icons=true&theme=radical"/>
 
