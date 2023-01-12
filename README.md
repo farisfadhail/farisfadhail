@@ -1,3 +1,4 @@
+<h2 align="left">Hi 👋! My name is Faris Fadhail and I'm a College Student in Jember University, studying Information System.<br><br>I have interest to Back-End developer and learning about Front-End.</h2>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hoamisme_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/faris-fadhail-391a47220) 
