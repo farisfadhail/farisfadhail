@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/farisfadhaill/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/faris-fadhail-391a47220) 
 
 ## 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,go,laravel,mysql,mongodb,elasticsearch,redis,kafka,rabbitmq&theme=light)](https://skillicons.dev)  .....
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,go,laravel,mysql,mongodb,elasticsearch,redis,kafka&theme=light)](https://skillicons.dev)  .....
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=farisfadhail&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
