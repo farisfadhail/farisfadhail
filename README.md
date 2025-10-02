@@ -1,4 +1,9 @@
-<h3 align="left">Hi :wave:! My name is Faris and my primary interest lies in Software Engineering, and I am dedicated to becoming a Back-End Developer. I have enriched my knowledge through valuable experiences during my internship at a technology startup, where I was actively involved in the development of various projects as a Back-End Developer.<br><br>Throughout my educational journey and career, I have come to understand the importance of continuously honing one's skills. Hence, I have pursued various skill certifications in software development, particularly in the Back-End and Web Development domains. Currently, I possess strong skills in programming languages such as PHP and Laravel, as well as in newer languages like Golang and GoFiber. I also have experience in managing databases using MySQL, MongoDB, Elasticsearch and Redis.</h3>
+<h3 align="left">Hi 👋! My name is Faris. I’m a Backend Developer passionate about building scalable and reliable systems.  
+I have hands-on experience from internships, freelance, and contract roles, delivering multiple backend projects such as HRIS, reporting systems, and e-commerce platforms.  
+<br><br>
+I specialize in Golang and Laravel, with strong skills in designing RESTful APIs, managing databases (MySQL, PostgreSQL, MongoDB), and working with modern technologies like Docker, Redis, Kafka, and Elasticsearch.  
+I’m committed to writing clean, maintainable, and production-ready code, and continuously improving through certifications in backend and web development. 🚀  
+</h3>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/farisfadhaill/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/faris-fadhail-391a47220) 
